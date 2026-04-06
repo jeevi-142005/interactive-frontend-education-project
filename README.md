@@ -1,6 +1,6 @@
-# 📘 Animated Educational Frontend Website
+# Animated Educational Frontend Website
 
-## 📌 Project Overview
+##  Project Overview
 This is an animated educational frontend website developed using HTML and CSS.
 The project demonstrates core frontend web development concepts such as
 responsive layouts, UI animations, transitions, and multi-page navigation.
@@ -8,27 +8,27 @@ responsive layouts, UI animations, transitions, and multi-page navigation.
 The website includes multiple pages like Home, About, Services, Contact,
 and Login, making it suitable for students learning frontend development.
 
-## 🎯 Project Objectives
+##  Project Objectives
 - To understand the structure of a multi-page frontend website
 - To implement CSS animations and transitions
 - To design a responsive and user-friendly interface
 - To gain practical experience with HTML and CSS
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML
 - CSS
 - CSS Animations
 - CSS Transitions
 - Responsive Web Design
 
-## ✨ Key Features
+##  Key Features
 - Animated educational frontend project
 - Smooth UI animations and hover effects
 - Responsive design for different screen sizes
 - Multi-page navigation system
 - Clean and structured layout
 
-## 📂 Project Structure
+##  Project Structure
 Work-Field-Starter/
 
 ├── index.html  
@@ -43,7 +43,7 @@ Work-Field-Starter/
 │   └── images/  
 │       └── website images  
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ## Home Page
 <img width="1920" height="996" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/5506aee7-e65d-49c8-bdc5-618c55fc1cdd" />
@@ -57,19 +57,18 @@ Work-Field-Starter/
 ## Contact Page
 <img width="1920" height="1004" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/c7a918f9-117c-492d-a940-a8de094a103e" />
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. Download or clone the repository
 2. Open the project folder
 3. Open index.html in any modern web browser
 4. The website will load successfully
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 - Understanding frontend website structure
 - Implementing CSS animations and transitions
 - Designing responsive layouts
 - Managing multi-page navigation
 
-## 👩‍🎓 Author
-Jeevika R  
+   
 Educational Frontend Development Project
 
